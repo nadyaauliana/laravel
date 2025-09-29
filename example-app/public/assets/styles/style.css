@@ -1,0 +1,171 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+img {
+    max-width: 300px;
+}
+
+.nav-bar {
+    background-color: white;
+    height: 80px;
+}
+
+.content-nav-bar {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    max-width: 1024px;
+    margin: 0px auto;
+    align-items: center;
+}
+
+.logo {
+    width: auto;
+    height: 80px;
+    margin: -2px;
+}
+
+.nav-bar-menu {
+    display: flex;
+    list-style: none;
+}
+
+.nav-bar-menu li {
+    margin: 0px 15px;
+}
+
+.nav-bar-menu li a {
+    text-decoration: none;
+    color: #B57E1D;
+}
+
+.nav-bar-menu li a:hover {
+    color: #000000;
+}
+
+.EN {
+    margin-right: 0px !important;
+}
+
+
+  .card {
+    background-color: #DBEAD5;
+    border-radius:6px;
+    padding: 20px;
+    width: 250px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+
+
+.btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 0px 25px;
+    height: 0px 25px;
+    background-color: #B57E1D;
+    color: black;
+    padding: 4px 8px;
+    border-radius: 5px;
+}
+
+.btn1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 0px 25px;
+    height: 0px 25px;
+    background-color: #B57E1D;
+    color: black;
+    padding: 4px 8px;
+    border-radius: 5px;
+}
+
+.btn-lihat {
+    padding: 5px 12px;
+    margin-bottom: 10px;
+}
+
+.faq {
+    background-color: #DBEAD5;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    width: 100%;
+    text-align: left;
+}
+
+.container {
+    max-width: 1024px;
+    background-color: palevioletred;
+    margin: 0px auto;
+}
+
+
+.container2 {
+    max-width: 1024px;
+    background-color: wheat;
+    margin: 0px auto;
+}
+
+.container3 {
+    max-width: 1024px;
+    background-color: salmon;
+    margin: 0px auto;
+
+}
+
+.container4 {
+    max-width: 1024px;
+    background-color: steelblue;
+    margin: 0px auto;
+}
+
+.container5 {
+    max-width: 1024px;
+    background-color: lawngreen;
+    margin: 0px auto;
+}
+
+.container6 {
+    max-width: 1024px;
+    background-color: rosybrown;
+    margin: 0px auto;
+}
+
+.container7 {
+    max-width: 1024px;
+    background-color: orangered;
+    margin: 0px auto;
+}
+
+.container8 {
+    max-width: 1024px;
+    background-color: orchid;
+    margin: 0px auto;
+}
+
+.container9 {
+    max-width: 1024px;
+    background-color: mistyrose;
+    margin: 0px auto;
+}
+
+.container10 {
+    max-width: 1024px;
+    background-color: cornsilk;
+    margin: 0px auto;
+}
+
+.wahana{ 
+    margin: 0px;
+    padding: 0px;
+}
+
+.galeri {
+    margin: 0px;
+    padding: 0px;
+}
